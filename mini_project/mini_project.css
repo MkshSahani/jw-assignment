@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(99, 99, 172);
+}
+
+div.dashboardElement {
+    display: inline-block;
+}
+
+
+
+div.sideBar {
+    background-color: rgb(65,80,115);
+    width: 400px;
+    margin-left: -10px;
+    margin-top: -10px;
+    height: 980px;
+}
+
+ div.sideBar div.sideBarHeadElement img{
+    height: 100px;
+    width: 400px;
+}
+
+.option {   
+    background-color: rgb(184, 216, 252);   
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    height: 30px;
+    font-style: italic;
+    font-family: Bradley Hand, cursive;
+    font-size: 45px;
+    padding: 50px;
+    color: rgb(121, 121, 165);
+}
+
+
+div.dashboardPhoto {
+    position : fixed;
+}
+
+div.dashboardPhoto div.userPhoto {
+    margin-left : 300px;
+}
+
+.closeTab {
+    float: right;
+}
+
+
+#userPhoto {
+    border: 1px solid white;
+    border-radius: 400px;
+}
